@@ -1,6 +1,7 @@
-FileFinderFX es una sencilla herramienta de escritorio en JavaFX que te ayuda a buscar archivos en tu sistema utilizando términos de texto o expresiones regulares.
+** FileFinderFX ** 
+Sencilla herramienta de escritorio en JavaFX que te ayuda a buscar archivos en tu sistema utilizando términos de texto o expresiones regulares.
 
-¿Para qué sirve?
+** Uso **
 
 Filtrar archivos por nombre o patrón regex.
 
@@ -8,7 +9,7 @@ Navegar por los resultados junto con su ruta, tamaño y fecha de modificación.
 
 Abrir archivos o carpetas directamente desde la lista de resultados.
 
-Tecnologías utilizadas
+** Tecnologías utilizadas ** 
 
 Java 21
 
