@@ -21,7 +21,7 @@ Ideal para cuando necesites encontrar rápido ficheros concretos en proyectos gr
 
 - **Java 21**  
 - **JavaFX 21** (Controls & FXML)  
-- **Maven** (wrapper + javafx-maven-plugin)  
-- **JUnit 5** para tests (si amplías su uso)  
+- **Maven** (wrapper + javafx-maven-plugin)   
 
 ---
+En desarrollo...
