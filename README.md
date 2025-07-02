@@ -1,20 +1,27 @@
-** FileFinderFX ** 
-Sencilla herramienta de escritorio en JavaFX que te ayuda a buscar archivos en tu sistema utilizando términos de texto o expresiones regulares.
+# 🗂️ FileFinderFX
 
-** Uso **
+Una pequeña aplicación de escritorio para **buscar archivos** por nombre o expresión regular en tu sistema de ficheros, con interfaz **JavaFX** y toda la potencia de **Maven**.
 
-Filtrar archivos por nombre o patrón regex.
+---
 
-Navegar por los resultados junto con su ruta, tamaño y fecha de modificación.
+## 🔍 ¿Qué es y para qué sirve?
 
-Abrir archivos o carpetas directamente desde la lista de resultados.
+FileFinderFX te permite:
 
-** Tecnologías utilizadas ** 
+- Escribir un término o regex para buscar en nombres de archivo.  
+- Seleccionar la carpeta raíz desde la que comenzar la búsqueda.  
+- Ver en tiempo real el progreso, número de archivos escaneados y coincidencias encontradas.  
+- Abrir, explorar o copiar la ruta de cualquier resultado directamente desde el menú contextual.  
 
-Java 21
+Ideal para cuando necesites encontrar rápido ficheros concretos en proyectos grandes o en tu disco duro.
 
-JavaFX 21 para la interfaz gráfica.
+---
 
-Maven (con wrapper) para la construcción y gestión de dependencias.
+## 🚀 Tecnologías
 
-Proyecto en desarrollo.
+- **Java 21**  
+- **JavaFX 21** (Controls & FXML)  
+- **Maven** (wrapper + javafx-maven-plugin)  
+- **JUnit 5** para tests (si amplías su uso)  
+
+---
